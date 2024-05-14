@@ -1,0 +1,7 @@
+#PaddleOCR - image text recognizer
+paddleocr>=2.0.1
+
+#ollama models
+ollama
+
+#ollama pull llama3,mistral,dolphin-phi (choose one)
